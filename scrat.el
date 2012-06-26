@@ -164,4 +164,5 @@ configuration to the state it was in beforehand."
 (global-set-key "\C-csp" 'posting)
 (global-set-key "\C-csb" 'back-from-scratch) 
 
+(provide 'scrat)
 ;;; scrat.el ends here
